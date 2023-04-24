@@ -1,0 +1,25 @@
+{
+  "name": "igcse-scrape",
+  "version": "0.0.1",
+  "description": "scrapes igcse past papers from qualifications.pearson.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "evan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evvns/igcse-scrape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evvns/igcse-scrape/issues"
+  },
+  "homepage": "https://github.com/evvns/igcse-scrape#readme"
+}
